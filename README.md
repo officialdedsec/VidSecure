@@ -101,7 +101,7 @@ Full step-by-step guides are in **[docs/](docs)**.
 
 > _Add your screenshots here (drop images in `assets/` and link them):_
 >
-> `![Protector](assets/screenshot-protector.png)` · `![Player](assets/screenshot-player.png)` · `![Android](assets/screenshot-android.png)`
+> ![Protector](assets/screenshot-protector.png)`
 
 ---
 
