@@ -99,8 +99,7 @@ Full step-by-step guides are in **[docs/](docs)**.
 
 ## 📸 Screenshots
 
-> _Add your screenshots here (drop images in `assets/` and link them):_
->
+
 > ![Protector](assets/screenshot-protector.png)`
 
 ---
