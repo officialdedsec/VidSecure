@@ -100,7 +100,8 @@ Full step-by-step guides are in **[docs/](docs)**.
 ## 📸 Screenshots
 
 
-> ![Protector](assets/screenshot-protector.png)`
+> ![Protector](assets/screenshot-protector.png)
+> ![Protector](assets/screenshot-player.png)`
 
 ---
 
